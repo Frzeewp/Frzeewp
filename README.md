@@ -1,21 +1,22 @@
-<h1 align="center">Hi there, I'm Fauzan W. Putra 👋</h1>
+# 👾 About Me:
 
-<h3 align="center">Student & Tech Enthusiast</h3>
+<h3>Student & Tech Enthusiast</h3>
 
-<p align="center">
-  I'm an IT Student that currently studying at Telkom Vocational school Jakarta. I'm a curious explorer of code, diving into the world of Data Science and Analytics.
+<p>
+  I'm an IT Student that currently studying at Telkom Vocational school Jakarta. <br> 
+  Curious explorer of code, diving into the world of Data Science and Analytics.
 </p>
 
 <!-- <p align="center">
   📺 Check out my work on  | 🌱 Currently learning:  | 💬 Ask me about: 
 </p> -->
 
-<p align="center">
+<p>
   <a href="https://github.com/YourUsername">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/YourUsername?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Frzeewp?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   </a>
   <a href="https://github.com/YourUsername?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/YourUsername?color=eb1c25&style=for-the-badge&logo=github&label=Stars"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Frzeewp?color=eb1c25&style=for-the-badge&logo=github&label=Stars"/>
   </a>
 </p>
 
@@ -46,7 +47,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Frzeewp&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
@@ -54,7 +55,7 @@
 ### 🏆 GitHub Trophy:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Thropy"/>
+  <img src="https://github-profile-trophy.vercel.app/api?username=Frzeewp&show_icons=true&theme=radical" alt="GitHub Thropy"/>
 </p>
 
 <!-- ### 🚀 Current Projects:
