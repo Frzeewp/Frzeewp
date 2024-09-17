@@ -12,10 +12,10 @@
 </p> -->
 
 <p>
-  <a href="https://github.com/YourUsername">
+  <a href="https://github.com/Frzeewp">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Frzeewp?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   </a>
-  <a href="https://github.com/YourUsername?tab=repositories">
+  <a href="https://github.com/Frzeewp?tab=repositories">
     <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Frzeewp?color=eb1c25&style=for-the-badge&logo=github&label=Stars"/>
   </a>
 </p>
@@ -48,6 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Frzeewp&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frzeewp&show_icons=true&locale=en&theme=radical" alt="Frzeewp" /> -->
 </p>
 
 ---
