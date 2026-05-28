@@ -46,19 +46,15 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Frzeewp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Frzeewp&theme=tokyonight&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/username=Frzeewp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Frzeewp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Frzeewp&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Frzeewp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ### 🏆 GitHub Trophy:
 
-<p align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=Frzeewp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Frzeewp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- ### 🚀 Current Projects:
 
