@@ -61,6 +61,10 @@
 ---
 
 ### 🚀 About Me
+<p>
+  I'm an IT Student that currently studying at Telkom University Bandung, Indonesia. <br>
+  Curious explorer of code, diving into the world of Data Science and Analytics.
+</p>
 
 ---
 
